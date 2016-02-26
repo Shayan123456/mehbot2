@@ -1,15 +1,12 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'S.H.O.S'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @shayan123hacker
   
-  Channel : @Nod32team
+  Channel : @kingbotpluss
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 5
   
   All rights reserved.
   __________________]]
