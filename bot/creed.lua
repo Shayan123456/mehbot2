@@ -248,6 +248,8 @@ function create_config( )
     "location",
     "plugins",
     "get",
+    "support",
+    "botnumber",
     "info",
     "leave",
     "wiki",
