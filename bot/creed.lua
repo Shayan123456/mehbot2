@@ -237,6 +237,7 @@ function create_config( )
     "chatbot",
     "sendplug",
     "emojilock",
+    "say_hello",
     "anti_fosh",
     "server_manager",
     "location",
