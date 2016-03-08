@@ -237,6 +237,8 @@ function create_config( )
     "add_admin",
     "anti_spam",
     "add_bot",
+    "sticker1",
+    "sticker2",
     "owners",
     "cbot",
     "set",
